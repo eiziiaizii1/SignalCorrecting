@@ -1,5 +1,5 @@
 # SignalCorrecting
-(1st term, programming course assignment)
+(1st term, Programming-1 course assignment)
 
 Correct the signals according according to specific rules
 
