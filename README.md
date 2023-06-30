@@ -1,4 +1,6 @@
 # SignalCorrecting
+(1st term, programming course assignment)
+
 Correct the signals according according to specific rules
 
 Welcome to the unlimited possibilities of the multiverse reality. You are sent to a verse in which
